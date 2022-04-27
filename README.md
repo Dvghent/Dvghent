@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dvghent
-- 👀 I’m interested in ... bbuilding processes that helps companies report better on financials as well as operations
+- 👀 I’m interested in ... building processes that helps companies report better on financials as well as operations
 - 🌱 I’m currently learning ... general programming
 - 💞️ I’m looking to collaborate on ... projects while learning general programming
 - 📫 How to reach me ... email david.vanghent@outlook.com or Skype
